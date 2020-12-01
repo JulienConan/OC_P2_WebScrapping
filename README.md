@@ -23,4 +23,5 @@ Veuillez à bien avoir installer les librairies citées dans le fichier **"requi
 
 Exemple : ``` pip install Beautifullsoup```
 
-Pour utiliser le programme, soit double-cliquer dessus, soit dan l'invite de commande taper : ``` poython P2_
+Pour utiliser le programme, soit double-cliquer dessus, soit dan l'invite de commande taper : ```python P2_Conan_Julien.py```
+Temps moyen constaté : 40 minutes.
