@@ -164,7 +164,6 @@ for i in list_url_category :
 		for k in list_url_book :
 			with open(file_cat, 'a', encoding="utf-8") as file :
 				infos = book_scrapping(k)
-				print(infos)
 				new_line = ";".join(infos.values()) + "\n"
 				file.write(new_line)
 
