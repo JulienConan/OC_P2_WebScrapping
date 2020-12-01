@@ -1,4 +1,7 @@
+### P2_WebScrapping
+
 Script permettant la récupération d'informations pour chaque livres référencés dans le site https://books.toscrape.com/.
+
 Pour chaque livre, il récuperent : 
 - url du livre,
 - son code UPC,
@@ -13,3 +16,11 @@ Pour chaque livre, il récuperent :
 
 Le script créera un dossier pour chaque catégorie de livre, contenant un fichier **"categorie".csv** et un dossier **image**.
 Dans le fichier **"categorie".cvs**, seront stockées les informations de chaque livre de cette catégorie et le dossier **image** contiendra les images pour chaque livre de cette catégorie, renommées avec le titre du livre.
+
+
+### Utilisation
+Veuillez à bien avoir installer les librairies citées dans le fichier **"requirements.text"**.
+
+Exemple : ``` pip install Beautifullsoup```
+
+Pour utiliser le programme, soit double-cliquer dessus, soit dan l'invite de commande taper : ``` poython P2_
