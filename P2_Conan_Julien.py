@@ -59,7 +59,7 @@ def book_scrapping(url) :
 		book_element['product_page_url'] = url
 
 		# Récupération du titre du livre
-		book_element['title'] = str(soup.title.text).replace(" | Books to Scrape - Sandbox", "").lstrip()
+		book_element['title'] = str(soup.title.text).replace(" | Books to Scrape - Sandbox", "").lstrip().rstrip("\n")
 		
 		data_list = soup.findAll('tr')
 		for data in data_list :
