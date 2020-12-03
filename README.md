@@ -19,7 +19,7 @@ Dans le fichier **"categorie".cvs**, seront stockées les informations de chaque
 
 
 ### Utilisation
-Veuillez à bien avoir installer les librairies citées dans le fichier **"requirements.text"**.
+Veuillez à bien avoir installer les librairies citées dans le fichier **"requirements.txt"**.
 
 Exemple : ``` pip install Beautifullsoup```
 
