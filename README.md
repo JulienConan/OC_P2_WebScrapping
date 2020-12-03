@@ -21,6 +21,6 @@ Dans le fichier **"categorie".cvs**, seront stockées les informations de chaque
 ### Utilisation
 Pour installer les librairies requises, entrer dans l'invite de commande : ``` pip install Beautifullsoup```
 
-Pour utiliser le programme, soit double-cliquer dessus, soit dans l'invite de commande taper : ```python P2_Conan_Julien.py```
+Pour utiliser le programme, soit double-cliquer dessus, soit dans l'invite de commande taper : ```python main.py```
 
 Temps moyen constaté : 40 minutes.
