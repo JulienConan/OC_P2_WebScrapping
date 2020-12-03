@@ -23,4 +23,4 @@ Pour installer les librairies requises, entrer dans l'invite de commande : ``` p
 
 Pour utiliser le programme, soit double-cliquer dessus, soit dans l'invite de commande taper : ```python main.py```
 
-Temps moyen constaté : 40 minutes.
+Temps moyen constaté : 27 minutes.
