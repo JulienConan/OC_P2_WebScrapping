@@ -22,7 +22,7 @@ Dans le fichier **categorie.cvs**, seront stockées les informations de chaque l
 
 ### Récupération du code
   Deux options : 
-   - Cloner le repository par le biais de git en entrant la commande :
+   - Cloner le repository par le biais de git en entrant la commande suivante :
    ```bash 
    git clone https://github.com/libgit2/libgit2
    ```
