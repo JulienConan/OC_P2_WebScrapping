@@ -34,7 +34,7 @@ Placer vous dans le dossier OC_P2_WebScrapping-main
 
 Ouvrir un invite de commande et lancer la commande suivante :
 ```bash 
-python3 -m venv env
+python -m venv env
 ```
 Cela crée le dossier env contenant une copie de l'interpréteur Python, de la bibliothèque standard et quelques autres fichiers utiles.
 
