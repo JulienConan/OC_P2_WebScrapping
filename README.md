@@ -30,4 +30,3 @@ Pour utiliser le programme, soit double-cliquer dessus, soit dans l'invite de co
 python main.py
 ```
 
-Temps moyen constaté : 27 minutes.
