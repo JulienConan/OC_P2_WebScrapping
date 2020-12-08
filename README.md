@@ -3,7 +3,7 @@
 Script permettant la récupération d'informations pour chaque livres référencés dans le site https://books.toscrape.com/.
 
 Pour chaque livre, il récupere : 
-- url du livre,
+- l'url de la page du livre,
 - son code UPC,
 - son titre,
 - son prix TTC,
