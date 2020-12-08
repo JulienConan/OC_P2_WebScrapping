@@ -1,4 +1,4 @@
-# Web-scrapping Book-Online
+# Version Beta Web-scrapping Books Online
 
 Script permettant la récupération d'informations pour chaque livres référencés dans le site https://books.toscrape.com/.
 
